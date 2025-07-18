@@ -9,6 +9,8 @@ Coding snippets taken from already existing cards (I am no professional), but th
 
 Images are from already-existing cards.
 
+These are meant to be used in pure hero. The only reason I didn't implement 'You can only Special Summon "Hero" monsters' into these cards was because it was too much work xD.
+
 Quoting project.toml:
 
 [[card]]
