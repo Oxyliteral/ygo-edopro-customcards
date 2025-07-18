@@ -1,7 +1,5 @@
 # Use this to define local configurations for your project.
 # Any configuration defined here will override its global counterpart.
-# Global configurations are located in `C:\Users\placeholder\AppData\Roaming\YGOFabrica\config.toml`.
-
 [expansion.project]
 default = true
 recipe = ["project.toml"]
