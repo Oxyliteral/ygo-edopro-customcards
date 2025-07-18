@@ -3,6 +3,12 @@ archive for custom cards for edopro
 
 ygo fabrica was used to make these.
 
+You can download project.zip and place it into Edopro's expansions folder, or download ygo fabrica and generate the project.zip file yourself.
+
+Coding snippets taken from already existing cards (I am no professional), but they should all work as written.
+
+Images are from already-existing cards.
+
 Quoting project.toml:
 
 [[card]]
