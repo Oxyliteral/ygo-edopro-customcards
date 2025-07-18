@@ -5,61 +5,111 @@ ygo fabrica was used to make these.
 
 Quoting project.toml:
 
-
-
 [[card]]
 id = 100010001
+
 name = "Favorite: Change Polymerization"
+
 type = "quickplay spell"
+
 set = "favorite change"
+
 effect = '''Fusion Summon 1 "Hero" monster using materials from your Extra Deck.
+
 You can banish this card from your GY: Add one "Mask Change" or "Polymerization" from your GY to your hand.
+
 You can only use each effect of "Change Polymerization" once per turn.'''
+
 
 [[card]]
 id = 100010002
+
 name = "Favorite: Winged Kuriboh - Level 1"
+
 type = "effect monster"
+
 race = "fairy"
+
 attribute = "light"
+
 level = 1
+
 atk = 300
+
 def = 200
+
 set = "elementalhero favorite kuriboh"
+
 effect = '''(This card is always treated as an "Elemental Hero" card.)
+
 You can Special Summon this card (from your hand) by sending a "Polymerization" or "Change" card from your Deck to the GY.
+
 You can tribute a "Hero" monster you control: Add one "Favorite" card from your Deck to your hand.
+
 You can banish a "Polymerization" or "Change" card from your GY: Add this card from your GY to your hand.
+
 You can only use each effect of "Favorite: Winged Kuriboh - Level 1" once per turn.'''
 
-[[card]]
-id = 100010003
-name = "Favorite: Winged Kuriboh - Level 8"
-type = "effect monster"
-race = "fairy"
-attribute = "light"
-level = 8
-atk = 300
-def = 200
-set = "elementalhero favorite kuriboh"
-effect = '''(This card is always treated as an "Elemental Hero" card.)
-You can Special Summon this card (from your hand) by banishing one "Kuriboh" monster from your GY.
-If this card is Special Summoned: you can tribute this card: Special Summon one level 7 or lower "Hero" monster from your Deck.
-You can banish this card from your GY in response to your opponent's monster effect: negate that effect.'
-You can only use each effect of "Favorite: Winged Kuriboh - Level 8" once per duel.'''
 
 [[card]]
-id = 100010004
-name = "Masked Hero Goka - Transformation"
+
+id = 100010003
+
+name = "Favorite: Winged Kuriboh - Level 8"
+
 type = "effect monster"
+
+race = "fairy"
+
+attribute = "light"
+
+level = 8
+
+atk = 300
+
+def = 200
+
+set = "elementalhero favorite kuriboh"
+
+effect = '''(This card is always treated as an "Elemental Hero" card.)
+
+You can Special Summon this card (from your hand) by banishing one "Kuriboh" monster from your GY.
+
+If this card is Special Summoned: you can tribute this card: Special Summon one level 7 or lower "Hero" monster from your Deck.
+
+You can banish this card from your GY in response to your opponent's monster effect: negate that effect.'
+
+You can only use each effect of "Favorite: Winged Kuriboh - Level 8" once per duel.'''
+
+
+[[card]]
+
+id = 100010004
+
+name = "Masked Hero Goka - Transformation"
+
+type = "effect monster"
+
 race = "warrior"
+
 attribute = "fire"
+
 level = 6
+
 atk = 2200
+
 def = 1800
+
 set = "maskedhero"
+
 effect = '''You can Special Summon this card (from your hand) by banishing one "Masked Hero" from your Deck.
+
 If a card is added to your hand (except during the Draw Phase or the Damage Step): You can add a Level 5 or higher "Hero" monster from your Deck to your hand.
+
 You can only use these effects of "Masked Hero Goka - Transformation" once per turn.
+
 If this card is Normal Summoned: You can Special Summon one of your level 4 or lower "Hero" monsters that is in your GY or banished.
-Once per turn: You can shuffle one "Fusion", "Change", or Level 5 or higher "Hero" card from your hand to your Deck, then add one level 4 or lower "Hero" monster from your Deck to your hand.'''
+
+Once per turn: You can shuffle one "Fusion", "Change", or Level 5 or higher "Hero" card from your hand to your Deck, then add one level 4 
+or lower "Hero" monster from your Deck to your hand.'''
+
