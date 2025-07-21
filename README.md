@@ -9,7 +9,7 @@ Coding snippets taken from already existing cards (I am no professional), but th
 
 Images are from already-existing cards.
 
-The first set (Favorite and - Transformation cards) are meant to be used in pure hero. They're meant to give you just a little bit more "Oomph".
+The first set (Favorite and - Transformation cards) are meant to be used in pure hero. They're meant to give you just a little bit more "Oomph". and in Kuriboh's case, a way to counter Nib.
 
 The second set (- Change!!!) was developed later. These lock you into Masked and Elemental Heros, so no links or DPE, and so I tried to make them stronger, accordingly.
 They revolve around the system of mask change, substituting a monster to summon. They have much easier access to adding cards to hand for material, and much easier access to gaining fusion and mask change cards.
