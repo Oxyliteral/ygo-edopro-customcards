@@ -66,6 +66,10 @@ You can only use this effect of "Masked Hero Divine Wind - Change!!!" once per t
 Once per turn, you can tribute a "Hero" monster you control: Special Summon a level 4 or lower "Elemental Hero" or "Masked Hero" from your Deck. You can only Special Summon "Elemental Hero" and "Masked Hero" monsters for the rest of the turn after you activate this effect.'''
 
 
+(Optional Buff, download projectoptional.zip to use this version):
+Once per turn, you can tribute a "Hero" monster you control: Special Summon a level 4 or lower "Elemental Hero" or "Masked Hero" from your Deck, then Special Summon one "Elemental Hero" monster with a different name from your Deck or GY. You can only Special Summon "Elemental Hero" and "Masked Hero" monsters for the rest of the turn after you activate this effect.'''
+
+
 name = "Masked Hero Koga - Change!!!"
 
 effect = '''You can Special Summon this card (from your hand) by tributing another "Hero" monster from your hand or field.
